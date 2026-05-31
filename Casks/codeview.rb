@@ -1,6 +1,6 @@
 cask "codeview" do
-  version "1.4.2"
-  sha256 "56a726b9baa908ad3c7a6c18de7f837254f1aff28ae150644c80ff047a545f46"
+  version "1.5.0"
+  sha256 "27036a9c0ae58ce4781004b535edb68ab70fe30b25e57472fccf719648640d9b"
 
   url "https://github.com/dkeg/codeview/releases/download/v#{version}/CodeView-#{version}-arm64.dmg"
   name "CodeView"
